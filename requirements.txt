@@ -1,0 +1,14 @@
+# Personal Finance Agent - Requirements
+# Python 3.8 or higher required
+
+# No external dependencies needed!
+# This agent runs completely locally using Python standard library only.
+
+# Optional: For testing
+pytest>=7.0.0
+pytest-cov>=4.0.0
+
+# Optional: For code quality
+black>=22.0.0
+flake8>=5.0.0
+mypy>=0.990
